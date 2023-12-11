@@ -1,0 +1,58 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,li{
+    margin: 0;
+    padding: 0;
+}
+.df{
+    display: flex;
+}
+.jcsb{
+    justify-content: space-between;
+}
+.img{
+    width: 100%;
+}
+.alcen{
+    align-items: center;
+    display:flex
+}
+.jccen{
+    justify-content: center;
+    display: flex;
+}
+.mauto{
+    margin: 0 auto;
+}
+.tal-cen{
+    text-align: center;
+}
+.jcse{
+    justify-content: space-evenly;
+}
+.alitend{
+    align-items: end;
+    height: 90px;
+    
+}
+.jccen{
+    justify-content: center;
+    display: flex;
+}
+.whiteclr{
+    color: white;
+}
+.jcfs{
+    justify-content: flex-start;
+    display: flex;
+}
+.al-fs{
+    align-items: flex-start;
+    display: flex;
+}
+.alend{
+    align-items: end;
+    display: flex;
+}
+.jcen{
+    justify-content: end;
+    display: flex;
+}

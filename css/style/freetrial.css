@@ -1,0 +1,187 @@
+.fcontainer2{
+    background-color: #f5f5f5;
+    height: 860px;
+    
+}
+.fmx-w2{
+    padding:  0;
+    background-color: white;
+    max-width: 925px;
+    height: 620px;
+    position: relative;
+    top: 160px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 25px 5px rgba(164, 164, 164, 0.5);
+    background-image: url(https://www.troopmessenger.com/img/home-images/loginimage_left.jpg);
+    background-repeat: no-repeat;
+    background-size: 36%;
+    background-position: left top;
+
+}
+.fnt-wht a{
+    /* font-weight: 400; */
+    border-bottom: 2px solid #f06b7c;
+    text-decoration: none;
+}
+.fnt-wht{
+    padding: 50px 0;
+    
+}
+ .img1{
+
+    position: relative;
+    margin-left: 0px;
+
+    
+}
+#images4{
+    background-image: url(	https://www.troopmessenger.com/img/building-1.webp),url(	https://www.troopmessenger.com/img/building-2.webp), url(	https://www.troopmessenger.com/img/building-3.webp),url(https://www.troopmessenger.com/img/building-4.webp);
+    background-repeat: no-repeat;
+    background-position: top left,top right,bottom right,bottom left;
+
+}
+
+.inputs{
+    border: 1px solid #d9d9d9;
+    width: 350px;
+    height: 40px;
+    background-color: #f5f5f5;
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding-left: 10px;
+    color: rgb(171, 168, 168);
+}
+.fbtn1{
+    background-color: #f06b7c;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 15px 0;
+    text-align: center;
+    width: 363px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.fbtn1:hover{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 15px 0;
+    text-align: center;
+    width: 363px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.bbtom{
+    border-bottom: 1px solid #556888;
+    font-weight: 600;
+    font-size: 13px;
+}
+.pgrey1{
+    color: rgb(143, 142, 142); 
+    font-size: 13px;  
+    font-family: Poppins;
+    font-weight: 500;
+    padding-right: 10px;
+}
+.ppink1{
+    color: #f06b7c;
+    border-bottom: 1px solid #f06b7c;
+    font-size: 12px;
+    font-weight: 600;
+}
+.pwidth-1{
+    width: 360px;
+    letter-spacing: 0.3px;
+}
+.pp{
+    font-size: 11px;
+    padding-top: 20px;
+}
+.fmartop{
+    margin-top: 240px;
+}
+.container_16 li{
+    list-style-type: none;
+}
+.container_16{
+    padding-top:35px;
+    padding-bottom: 30px;
+}
+.ftrialcus{
+    padding-top: 50px;
+}
+.container_16 .para1{
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+
+/* .flag1{
+    background-image: url(https://www.troopmessenger.com/img/flags.png);
+    background-color: #DBDBDB;
+    background-repeat: no-repeat;
+    width: 20px;
+    background-position:  -2413px 0px ;
+} */
+.dropdownlist{
+    width: 364px;
+    height: 40px;
+    background-color: white;
+    list-style-type: none;
+    padding-left: 10px;
+
+}
+.dropdownlist:hover{
+    background-color: #f2f0f0;
+    color: black;
+    height: 40px;
+
+    width: 364px;
+
+}
+
+.fdropdown{
+    cursor: pointer;
+    width: 364px;
+}
+.pbtn7{
+    height: 44px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+}
+
+
+.ulheight{
+    max-height: 200px;
+    overflow-y: scroll;
+    z-index: 2;
+    border: 1px solid rgb(211, 209, 209);
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.2) ;
+    background-color: white;
+    display: none;
+}
+.ulheight.ulheight1{
+    max-height: 200px;
+    overflow-y: scroll;
+    z-index: 2;
+    border: 1px solid rgb(211, 209, 209);
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.2) ;
+    background-color: white;
+    display: block;
+}
+.light1{
+    color: #b0adad;
+    padding-left: 10px;
+    font-weight: 100;
+}
+.dropdownlist span{
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    
+
+}
